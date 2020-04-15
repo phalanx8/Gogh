@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
-
+#8107f1
 # ====================CONFIG THIS =============================== #
-export COLOR_01="#090300"           # HOST
-export COLOR_02="#db2d20"           # SYNTAX_STRING
-export COLOR_03="#01a252"           # COMMAND
-export COLOR_04="#fded02"           # COMMAND_COLOR2
-export COLOR_05="#01a0e4"           # PATH
-export COLOR_06="#a16a94"           # SYNTAX_VAR
-export COLOR_07="#b5e4f4"           # PROMP
-export COLOR_08="#a5a2a2"           #
+export COLOR_01="#8107f1"           # HOST
+export COLOR_02="#8107f1"           # SYNTAX_STRING
+export COLOR_03="#8107f1"           # COMMAND
+export COLOR_04="#8107f1"           # COMMAND_COLOR2
+export COLOR_05="#8107f1"           # PATH
+export COLOR_06="#8107f1"           # SYNTAX_VAR
+export COLOR_07="#8107f1"           # PROMP
+export COLOR_08="#8107f1"           #
 
 export COLOR_09="#5c5855"           #
 export COLOR_10="#e8bbd0"           # COMMAND_ERROR
